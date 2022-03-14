@@ -1,4 +1,4 @@
-### Currently working on a pretty cool game you may have seen before :)
+### Currently working on a virtual world game you may have seen before :)
 
 🐧 Check it out here! [Club Penguin Rewritten](https://play.cprewritten.net/)
 
