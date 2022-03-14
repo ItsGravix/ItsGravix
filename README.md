@@ -1,11 +1,11 @@
 ### Currently working on a virtual world game you may have seen before :)
 
-🐧 Check it out here! [Club Penguin Rewritten](https://play.cprewritten.net/)
+- 🐧 Check out my work at [Club Penguin Rewritten](https://play.cprewritten.net/)
+- 📫 You can reach me on Twitter: [@ItsGravix](https://twitter.com/ItsGravix)
+# 
 
 ![Gravix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGravix&show_icons=true&count_private=true)
 
-
-📫 You can contact me on Twitter: [@ItsGravix](https://twitter.com/ItsGravix)
 <!--
 **ItsGravix/ItsGravix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
