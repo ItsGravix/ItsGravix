@@ -1,7 +1,8 @@
-#### Currently working on a virtual world game you may have seen before :)
+#### Currently working on another virtual world game :)
 
-- 🐧 Check out my work at [Club Penguin Rewritten](https://play.cprewritten.net/)
+- 🐧 Former lead developer at [Club Penguin Rewritten](https://twitter.com/CPRewritten) while publishing to millions of players.
 - 📫 You can reach me on Twitter: [@ItsGravix](https://twitter.com/ItsGravix)
+- 🎥 [YouTube](https://www.youtube.com/channel/UCLnUAujUCtw50JO5wbj3fHw) 
 # 
 
 ![Gravix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGravix&show_icons=true&count_private=true)
