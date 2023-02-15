@@ -1,6 +1,6 @@
 #### Currently working on another virtual world game :)
 
-- 🐧 Former lead developer at [Club Penguin Rewritten](https://twitter.com/CPRewritten) while publishing to millions of players.
+- 🐧 Former lead developer at [Club Penguin Rewritten](https://twitter.com/CPRewritten), publishing to millions of players.
 - 📫 You can reach me on Twitter: [@ItsGravix](https://twitter.com/ItsGravix)
 - 🎥 [YouTube](https://www.youtube.com/channel/UCLnUAujUCtw50JO5wbj3fHw) 
 # 
