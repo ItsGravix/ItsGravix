@@ -5,7 +5,7 @@
 - 🎥 [YouTube](https://www.youtube.com/channel/UCLnUAujUCtw50JO5wbj3fHw) 
 # 
 
-![Gravix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGravix&show_icons=true&count_private=true)
+<!--![Gravix's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGravix&show_icons=true&count_private=true)
 
 <!--
 **ItsGravix/ItsGravix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
